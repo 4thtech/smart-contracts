@@ -1,0 +1,3 @@
+[submodule "smart-contracts-evm"]
+	path = evm
+	url = https://github.com/4thtech/smart-contracts-evm
